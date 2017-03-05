@@ -22,7 +22,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .lead {
@@ -167,4 +167,10 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+.central_image_logo {
+  /*padding-bottom: 2px;*/
+  padding: 100px;
+
+
 }
